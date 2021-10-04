@@ -1,0 +1,55 @@
+/*
+===============
+Fonts
+===============
+*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/*
+===============
+Variables
+===============
+*/
+
+/* dark shades of primary color*/
+$--clr-primary-1: #fceef1;
+$--clr-primary-2: #f9abbf;
+$--clr-primary-3: #f6829e;
+$--clr-primary-4: #f3587e;
+$--clr-primary-5: #f02e5e;
+$--clr-primary-6: #c0254b;
+$--clr-primary-7: #901c38;
+$--clr-primary-8: #601226;
+$--clr-primary-9: #300913;
+
+$--clr-white: #ffffff;
+$--clr-blue-dark: #2c7aad;
+$--clr-red: #e9595b;
+$--clr-black: #262626;
+$--clr-purple: #e9d8fd;
+/* darkest grey - used for headings */
+$--grey-50: #f8fafc;
+$--grey-100: #f1f5f9;
+$--grey-200: #e2e8f0;
+$--grey-300: #cbd5e1;
+$--grey-400: #94a3b8;
+$--grey-500: #64748b;
+$--grey-600: #475569;
+$--grey-700: #334155;
+$--grey-800: #1e293b;
+$--grey-900: #0f172a;
+
+$--ff-primary: 'Inter', sans-serif;
+$--ff-secondary: 'Fira Sans', sans-serif;
+$--transition: all 0.3s linear;
+$--spacing-1: 0.10rem;
+$--spacing-2: 0.25rem;
+$--radius: 0.5rem;
+$--light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+$--dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+
+/* box shadow */
+$--shadow-1: 1px 1px 5px 0 rgba(1, 1, 1, 0.05);
+$--shadow-2: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+$--shadow-3: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+$--shadow-4: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
